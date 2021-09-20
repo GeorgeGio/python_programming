@@ -1,0 +1,34 @@
+an if statement can live without an else statement - True
+and else statement can live without an if statement- False
+an elif statement can live without and if statement - False
+
+an if + elif statement can live without an else statement - True
+
+5) if a == True:
+   if a:
+
+   the are equivalent
+
+6)
+
+1
+2
+4
+7
+8
+9
+
+7) = 2
+
+a = False
+b = True
+c = True
+
+if a:
+    print("1")
+elif b:
+    print("2")
+elif c:
+    print("3")
+else:
+    print("4")

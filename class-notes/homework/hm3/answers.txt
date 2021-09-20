@@ -1,0 +1,26 @@
+What is a nested loop?
+
+- it is a loop within a loop
+
+for a in b:
+    for b in x:
+
+
+Which kind of loop is based on a conditional statement: while loops or for loops?
+
+- while loops
+
+When you want to iterate a specific number of times, would you typically use a while loop or a for loop?
+
+- for iteration one would use a for loop
+
+
+
+Is it possible to loop through a string one letter at a time? What is the example given in the article?
+
+- you can iterate through a string by specifying the inde[] of the sting or using a for loop
+
+Extrapolate from what you learned in the articles: Do you think a for loop be nested inside a while loop? Why or why not?
+
+- for loops cannot be nested within a while loop because of the conditional purpose. a for loop will loop for a number of
+  time you set it so you don’t need to know how many times to repeat the code going in
